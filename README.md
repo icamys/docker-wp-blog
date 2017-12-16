@@ -18,3 +18,7 @@ $ docker-compose up
 # starting containers (dettached)
 $ docker-compose up -d
 ```
+
+Configure portainer on: http://127.0.0.1:9000
+Configure wordpres on: http://127.0.0.1
+
